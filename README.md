@@ -21,3 +21,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jonathanrickw/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/jonathanricky#7543)
 [![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ojonathanrick)
+
+![Snake animation](https://github.com/ojonathanrick/ojonathanrick/blob/output/github-contribution-grid-snake.svg)
+ 
